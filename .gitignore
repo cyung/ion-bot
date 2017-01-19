@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+config.json
+debug.json
+output.txt
+streamers.json
+test.js
+tweeters.json
+*.sh
+*.jpg
+*.png
